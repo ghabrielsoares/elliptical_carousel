@@ -5,8 +5,17 @@
 </p>
 
 ---
+# Type 1
 ![TYPE 1](imgs/elliptical_carousel_tipo_1.gif)
+
+---
+# Type 2
 ![TYPE 2](imgs/elliptical_carousel_tipo_2.gif)
+
+---
+# Type 3
+![TYPE 3](imgs/elliptical_carousel_tipo_3.gif)
+
 ---
 
 ## CARROSSEL ELÍPTICO (PT-BR) <a name="elliptical_carousel-pt-br"></a>
