@@ -1,0 +1,59 @@
+body {
+  background: white;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+  position: relative;
+}
+
+.carousel {
+  position: relative;
+  width: 300px;
+  height: 180px;
+  margin: 0 auto;
+}
+
+.arrow {
+  position: absolute;
+  top: 70px; /* ajustado para alinhar com o círculo central */
+  font-size: 32px;
+  cursor: pointer;
+  z-index: 10;
+  user-select: none;
+}
+
+.arrow.left {
+  left: 80px;  /* mais próximo do círculo central */
+}
+
+.arrow.right {
+  right: 80px;
+}
+
+.circle {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.squares {
+  margin-top: 20px;
+  height: 200px;
+  position: relative;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: none;
+}
+
+.square.active {
+  display: block;
+}
