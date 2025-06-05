@@ -17,6 +17,10 @@
 ![TYPE 3](imgs/elliptical_carousel_tipo_3.gif)
 
 ---
+# Type 4
+![TYPE 3](imgs/elliptical_carousel_tipo_4.gif)
+
+---
 
 ## CARROSSEL ELÍPTICO (PT-BR) <a name="elliptical_carousel-pt-br"></a>
 
